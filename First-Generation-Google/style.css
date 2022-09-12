@@ -1,0 +1,51 @@
+.ort{
+    margin-left: 37%;
+}
+
+.aramacubugu{
+    margin-left: 33%;
+    margin-right: 33%;
+    background-color:#EEEE;
+    height: 4rem;
+    width: 85%;
+    margin-left: 8%;
+    border-radius:0.5rem;
+    border: 0;   
+}
+
+.size-underbox{
+    margin-left: 7.5%;
+    margin-right: 7%;
+    padding-top: 0 25px;
+    /* vfdjvfdvfdv */
+    
+}
+.underbox{
+    background-color: #87e8dc;
+    width: 30rem;
+    text-align: center;
+    padding: 0 25px;
+    
+  
+}
+.underbox2{
+    background-color: #70CCC2;
+    width: 18rem;
+    height: 2rem;
+    text-align: center;
+    padding-top: 0%;
+  
+}
+.underbox3{
+    background-color: #62B3AA;
+    width:30rem;
+    height: 2rem;
+    text-align: center;
+    padding-top: 0%;
+    margin-right: 0%;
+  
+}
+.p{
+    text-align: center;
+    font-size: small;
+}
